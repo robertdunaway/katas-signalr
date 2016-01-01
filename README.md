@@ -1,1 +1,1 @@
-# katas-signalr
+# katas-lodash
